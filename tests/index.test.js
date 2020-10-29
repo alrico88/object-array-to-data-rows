@@ -1,4 +1,4 @@
-const convertToDataArray = require('./index');
+const convertToDataArray = require('../index');
 
 const TEST_ARRAY_OF_OBJECTS = [
   {
